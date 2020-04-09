@@ -1,0 +1,5 @@
+$ ifconnfig
+$ sudo apt update
+$ sudo apt install net-tools
+$ which ifconfig
+$ ifconfig
