@@ -20,4 +20,5 @@ $ sudo apt install ansible
 $ ansible --version
 $ which ansible
 
-
+Echo
+$ Echo "Hello World"
