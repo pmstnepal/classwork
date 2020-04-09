@@ -5,4 +5,19 @@ $ which ifconfig
 $ ifconfig
 
 Telnet Installation script
+$ sudo apt update
 $ sudo apt install telnet
+
+Puppet Installation script
+$ sudo apt update
+$ sudo apt install puppet
+$ puppet --version
+$ which puppet
+
+Ansible Installation script
+$ sudo apt update
+$ sudo apt install ansible
+$ ansible --version
+$ which ansible
+
+
