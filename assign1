@@ -1,0 +1,22 @@
+#!/bin/bash
+echo 'net-tools Installation Script'
+echo 'sudo apt update'
+echo 'sudo apt install -y net-tools'
+echo 'which ifconfig'
+echo 'ifconfig'
+
+echo 'Telnet Installation script'
+echo 'sudo apt update'
+echo 'sudo apt install -y telnet'
+
+echo 'Puppet Installation script'
+echo 'sudo apt update'
+echo 'sudo apt install puppet'
+echo 'puppet --version'
+echo 'which puppet'
+
+echo 'Ansible Installation script'
+echo 'sudo apt update'
+echo 'sudo apt install ansible'
+echo 'ansible --version'
+echo 'which ansible'
