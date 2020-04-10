@@ -1,3 +1,6 @@
+i have created this script in a wrong way so i will re do my assignment
+again and  will upload again
+ 
 Net-tools Installation script
 $ sudo apt update
 $ sudo apt install net-tools
